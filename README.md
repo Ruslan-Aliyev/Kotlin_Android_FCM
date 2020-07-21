@@ -28,6 +28,8 @@
 
 ## Send from your own server (PHP)
 
+- https://stackoverflow.com/questions/61342657/i-want-legacy-server-key-to-add-to-my-admin-panel-for-cloud-messaging
+
 ### Legacy 
 
 - https://www.youtube.com/watch?v=PPP9zyEPaCw
@@ -36,6 +38,8 @@
 ### HTTP v1 API
 
 - https://firebase.google.com/docs/cloud-messaging/migrate-v1
+    - https://firebase.google.com/docs/cloud-messaging/http-server-ref
+    - https://firebase.google.com/docs/cloud-messaging/auth-server#migrate-legacy-server-keys
 - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh
 - https://firebase.google.com/docs/auth/android/custom-auth
 
