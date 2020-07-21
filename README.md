@@ -11,6 +11,8 @@
 - https://www.youtube.com/watch?v=XijS62iP1Xo
 - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjxP_CHAhjXQN3zrcEhluF_
 
+- https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh
+
 ## Send from Firebase console
 
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Kotlin_Android_FCM/master/Illustrations/Token.png)
