@@ -8,9 +8,11 @@
     - ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Kotlin_Android_FCM/master/Illustrations/to_existing_fb_proj_from_as.png)
 - https://firebase.google.com/docs/android/setup (Setup from FireBase Console)
     - https://stackoverflow.com/questions/46185098/how-can-i-add-an-android-app-to-an-existing-firebase-project-that-is-already-in (Setup to existing project in FireBase Console)
+
 - https://www.youtube.com/watch?v=XijS62iP1Xo
 - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjxP_CHAhjXQN3zrcEhluF_
 
+- https://firebase.google.com/docs/cloud-messaging/migrate-v1
 - HTTP v1 API Authentication token
     - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh
     - https://firebase.google.com/docs/auth/android/custom-auth
