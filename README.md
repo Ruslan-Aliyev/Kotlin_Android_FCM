@@ -11,7 +11,9 @@
 - https://www.youtube.com/watch?v=XijS62iP1Xo
 - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjxP_CHAhjXQN3zrcEhluF_
 
-- https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh
+- HTTP v1 API Authentication token
+    - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh
+    - https://firebase.google.com/docs/auth/android/custom-auth
 
 ## Send from Firebase console
 
